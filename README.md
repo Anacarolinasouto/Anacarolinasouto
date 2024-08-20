@@ -1,5 +1,5 @@
-oi eu sou a Ana carolina souto
-Eu tenho 15 anos
+Oi eu sou a Ana carolina souto.
+Eu tenho 15 anos.
 
 <!---
 Anacarolinasouto/Anacarolinasouto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
